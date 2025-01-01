@@ -10,7 +10,7 @@ import (
 )
 
 // -----------------------
-// WEBSCRAPER - GOROUTINES
+// WEBSCRAPER - GOROUTINES [BASIC CHANNELS -> NO WAITGROUPS!!]
 // -----------------------
 // GOROUTINE - EXTRACT MULTIPLE URLS, FROM LIST THEN RUN IN PARALLEL
 // SCRAPER MOD - https://github.com/gocolly/colly
